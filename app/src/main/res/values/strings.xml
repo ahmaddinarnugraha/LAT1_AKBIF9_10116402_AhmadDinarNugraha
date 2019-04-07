@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LAT1_AKBIF9_10116402_AhmadDinarNugraha</string>
+    <string name="welcome">welcome</string>
+    <string name="mulai">Mulai</string>
+    <string name="belikode">Beli Kode Keluarga Disini</string>
+    <string name="monitory">Monitory Membantu anda Mengontrol HP Anak</string>
+    <string name="menekantombol">Dengan Menekan Tombol Masuk Berarti Anda menyetujui Ketentuan Pengguna dan Kebijakan Data Kami</string>
+    <string name="belumpunyakode">Belum Punya Kode Keluarga?</string>
+    <string name="ketikankodekeluarga">Ketikan Kode Keluarga Ayah Bunda Miliki Disini</string>
+    <string name="kodekeluarga">Kode Keluarga</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="namapanggilan">Nama Panggilan Kamu</string>
+    <string name="umur">Umur Kamu</string>
+    <string name="contoh">Contoh : 17</string>
+    <string name="namakamu">Contoh : Budi</string>
+    <string name="oke">Oke</string>
+    <string name="beres">Beres! Sekarang kamu sudah bisa ngecek penggunaan HP mu tiap hari buat bantu kamu ngatur waktu :)</string>
+    <string name="contoh1">Contoh : A1B2C3</string>
+
+</resources>
